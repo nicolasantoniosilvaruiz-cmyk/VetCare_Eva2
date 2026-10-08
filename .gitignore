@@ -1,0 +1,10 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conservar la base de datos para la evaluación
+!db.sqlite3
